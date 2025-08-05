@@ -15,7 +15,7 @@
 
 /* mobile*/
 @media screen and (max-width:668px) {
-    td:nth-child(2), .hidden{
+    td:nth-child(2), th:nth-child(2){
         display: none;
     }
 }
