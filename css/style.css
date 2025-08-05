@@ -4,3 +4,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Stile main*/
+
+.container-main{
+    margin: 0 auto;
+    max-width: 85%;
+}
+
+
+/* mobile*/
+@media screen and (max-width:668px) {
+    td:nth-child(2), .hidden{
+        display: none;
+    }
+}
