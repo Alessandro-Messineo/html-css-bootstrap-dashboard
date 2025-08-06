@@ -12,6 +12,13 @@
     max-width: 85%;
 }
 
+.titolo{
+    width: 400px;
+}
+
+.info{
+    width: 150px;
+}
 
 /* mobile*/
 @media screen and (max-width:668px) {
